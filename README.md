@@ -20,7 +20,7 @@ This is a Java-based tour reservation system developed as part of a university a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tour-reservation.git
+git clone https://github.com/yadu3002/tour-reservation.git
 cd tour-reservation
 ```
 
